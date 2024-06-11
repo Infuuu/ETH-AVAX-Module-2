@@ -5,7 +5,7 @@
 
 Here's a look at our Arcade Storage application in action:
 
-![Arcade Storage Interface](images/interface_screenshot.png)
+![Arcade Storage Interface](SCR-20240612-cjxi.png)
 
 This screenshot shows the main interface where users can store and retrieve their arcade game scores.
 
