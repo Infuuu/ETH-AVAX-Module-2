@@ -1,12 +1,8 @@
-# Starter Next/Hardhat Project
+# 🕹️ Arcade Storage
+> A simple Ethereum-based storage solution for arcade game scores. 🏆
 
-After cloning the github, you will want to do the following to get the code running on your computer.
+##
 
-1. Inside the project directory, in the terminal type: npm i
-2. Open two additional terminals in your VS code
-3. In the second terminal type: npx hardhat node
-4. In the third terminal, type: npx hardhat run --network localhost scripts/deploy.js
-5. Back in the first terminal, type npm run dev to launch the front-end.
+## 📝 Description
+Arcade Storage is a decentralized application (dApp) that allows users to store and retrieve arcade game scores on the Ethereum blockchain. This project demonstrates the use of smart contracts and blockchain technology to create a transparent and tamper-proof system for game score management. Ideal for developers interested in blockchain applications or anyone passionate about preserving arcade game history in a modern way. 🎮
 
-After this, the project will be running on your localhost. 
-Typically at http://localhost:3000/
